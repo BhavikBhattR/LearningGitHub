@@ -16,6 +16,7 @@ struct ContentView: View {
             }.sheet(isPresented: $isPresented) {
                 Text("sheet view")
             }
+            Text("world is shit")
         }
         .padding()
     }
