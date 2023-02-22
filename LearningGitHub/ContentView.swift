@@ -17,6 +17,7 @@ struct ContentView: View {
                 Text("sheet view")
             }
             Text("world is shit")
+            Text("true")
         }
         .padding()
     }
